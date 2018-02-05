@@ -1,5 +1,4 @@
-//Authors: Ryosuke Tajima
-//29JAN2018
+//Ryosuke Tajima 20180205
 
 setAutoThreshold("Triangle");
 run("Threshold", "thresholded remaining black"); 
