@@ -1,4 +1,4 @@
-# The Example of Simple Estimating Root Length  
+# SERL: Simple Estimating Root Length  
 
 The example of estimating plant root length with ImageJ using macros plugins  
 
